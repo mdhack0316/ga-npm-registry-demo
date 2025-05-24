@@ -1,6 +1,9 @@
 {
-  "name": "@mdhack0316/solar-system",
+  "name": "@mdhack0316/my-published-package",
   "version": "6.7.6",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "author": "Mayank MOdi <mayank123modi@gmail.com>",
   "homepage": "https://www.linkedin.com/in/barahalikar-siddharth/",
   "license": "MIT",
